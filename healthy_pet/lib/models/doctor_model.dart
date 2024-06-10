@@ -32,5 +32,5 @@ var doctors = [
       name: "Dr. Ranzein",
       image: "Dr. Vanessa.jpg",
       services: [ServiceModel.vaccine, ServiceModel.surgery],
-      distance: 10)
+      distance: 10),
 ];
